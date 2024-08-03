@@ -1,8 +1,8 @@
-# Laboratorio - Empresa
+# Laboratorio - 13
 
 ## Description
 
-Aplicación CRUD para el registro, edición y borrado de personas.
+Conversion de imágens y listener de eventos.
 
 ## Installation
 
@@ -30,21 +30,18 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Desarrollo
 
-1. Formulario del login
+1. Subida de imagen
 
-![image](https://github.com/user-attachments/assets/4fb3aedd-af8e-4bbd-8b66-9793058431b6)
+![image](https://github.com/user-attachments/assets/9840d143-4cc1-42d1-a455-53b75dd0ab8f)
 
-Notificación:
+Listener de notificación
 
-![image](https://github.com/user-attachments/assets/dffe42c5-4a69-4dca-b465-77e969861eda)
+![image](https://github.com/user-attachments/assets/2c8d53ac-0b08-400e-a947-e1959e06912e)
 
-2. Ruta /dashboard protegida con autentificación
+2. Conversión de imagen de JPG a Webp (Se verifica en el bucket subido)
 
-![image](https://github.com/user-attachments/assets/b1347c63-a913-40e0-b5f1-820f9309b14b)
+![image](https://github.com/user-attachments/assets/186ae54a-f2b1-4d23-94fb-f2b641469906)
 
-3. Ruta /dashboard sin la autentificación
+3. Comprobación de listener de Actividades en la Base de datos
 
-![image](https://github.com/user-attachments/assets/76f72f11-837c-4e2c-86e3-3937a4b09641)
-
-
-
+![image](https://github.com/user-attachments/assets/12ef3a59-8b3c-40e8-ba70-cc320ee3f82d)
